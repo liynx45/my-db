@@ -1,0 +1,57 @@
+[
+        {
+            "id"         : 1,
+            "name"       : "To Do List",
+            "src"        : "to-do-list.png",
+            "description": "this app web built with react js and tailwindcss. Use localstorage for database",
+            "tools"      : [
+                {
+                    "id" : 1,
+                    "src" : "reactJs.png"
+                },
+                {
+                    "id" : 2,
+                    "src" : "tailwindcss.png"
+                }
+            ]
+            
+        },
+        {
+            "id"         : 2,
+            "name"       : "Gallery",
+            "src"        : "gallery-js.png",
+            "description": "this Project still use data on client server, not local storage. I use transition efek for smooth slide",
+            "tools"      : [
+                {
+                    "id" : 1,
+                    "src" : "html.png"
+                },
+                {
+                    "id" : 2,
+                    "src" : "css.png"
+                },
+                {
+                    "id" : 3,
+                    "src" : "javaScript.png"
+                }
+            ]
+            
+        },
+        {
+            "id"         : 3,
+            "name"       : "Store",
+            "src"        : "store.png",
+            "description": "this app web built with javascript. I use css 'display: block and none for render page. database still use client server not localstorage",
+            "tools"      : [
+                {
+                    "id" : 1,
+                    "src" : "html.png"
+                },
+                {
+                    "id" : 2,
+                    "src" : "javascript.png"
+                }
+            ]
+            
+        }
+    ]
