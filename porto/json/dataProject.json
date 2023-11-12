@@ -55,7 +55,80 @@
                 },
                 {
                     "id" : 2,
+                    "src" : "css.png"
+                },
+                {
+                    "id" : 3,
                     "src" : "javaScript.png"
+                }
+            ]
+            
+        },
+        {
+            "id"         : 4,
+            "name"       : "Portofolio V1",
+            "link"       : "https://vercel.com/liynnxs-projects/porto-v1/Cy6LWaqH5F1QtUA4WnJypka9dTLt",
+            "git"        : "https://github.com/liynx45/tpl-porto-tailwind", 
+            "src"        : "portoV1.png",
+            "description": "a portfolio website built using vanilla HTML with the tailwindcss framework",
+            "tools"      : [
+                {
+                    "id" : 1,
+                    "src" : "html.png"
+                },
+                {
+                    "id" : 2,
+                    "src" : "tailwindcss.png"
+                },
+                {
+                    "id" : 3,
+                    "src" : "javaScript.png"
+                }
+            ]
+            
+        },
+        {
+            "id"         : 5,
+            "name"       : "To Do List",
+            "link"       : "https://liynx45.github.io/To-Do-List.js/",
+            "git"        : "https://github.com/liynx45/To-Do-List.js", 
+            "src"        : "toDoListJs.png",
+            "description": "is a to do list website that uses JavaScript and still uses a client server",
+            "tools"      : [
+                {
+                    "id" : 1,
+                    "src" : "html.png"
+                },
+                {
+                    "id" : 2,
+                    "src" : "javaScript.png"
+                },
+                {
+                    "id" : 3,
+                    "src" : "css.png"
+                }
+            ]
+            
+        },
+        {
+            "id"         : 6,
+            "name"       : "Weather Info",
+            "link"       : "https://liynx45.github.io/weather.io.github/",
+            "git"        : "https://github.com/liynx45/weather.io.github", 
+            "src"        : "weaterInfo.png",
+            "description": "a website to check the weather in an area or at the current location",
+            "tools"      : [
+                {
+                    "id" : 1,
+                    "src" : "html.png"
+                },
+                {
+                    "id" : 2,
+                    "src" : "javaScript.png"
+                },
+                {
+                    "id" : 3,
+                    "src" : "css.png"
                 }
             ]
             
