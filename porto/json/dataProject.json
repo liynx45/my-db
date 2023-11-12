@@ -2,7 +2,7 @@
         {
             "id"         : 1,
             "name"       : "To Do List",
-            "link"       : "https://vercel.com/liynnxs-projects/to-do-list-react/6gWm8rXALx9spnvm7uDtULFxBCgt",
+            "link"       : "https://to-do-list-react-sable.vercel.app/",
             "src"        : "to-do-list.png",
             "description": "this app web built with react js and tailwindcss. Use localstorage for database",
             "tools"      : [
