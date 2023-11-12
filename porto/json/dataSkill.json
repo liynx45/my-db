@@ -4,41 +4,41 @@
             "name" : "Html",
             "type" : "Language",
             "progres" : "80%",
-            "src" : "html.png"
+            "src" : "https://liynx45.github.io/my-db/porto/icons/html.png"
         },
         {
             "id" : 2,
             "name" : "CSS",
             "type" : "Language",
             "progres" : "70%",
-            "src" : "css.png"
+            "src" : "https://liynx45.github.io/my-db/porto/icons/css.png"
         },
         {
             "id" : 3,
             "name" : "JavaScript",
             "type" : "Language",
             "progres" : "60%",
-            "src" : "javaScript.png"
+            "src" : "https://liynx45.github.io/my-db/porto/icons/javaScript.png"
         },
         {
             "id" : 4,
             "name" : "PHP",
             "type" : "Language",
             "progres" : "40%",
-            "src" : "php.png"
+            "src" : "https://liynx45.github.io/my-db/porto/icons/php.png"
         },
         {
             "id" : 5,
             "name" : "React Js",
             "type" : "Library",
             "progres" : "60%",
-            "src" : "reactJs.png"
+            "src" : "https://liynx45.github.io/my-db/porto/icons/reactJs.png"
         },
         {
             "id" : 6,
             "name" : "Tailwind",
             "type" : "Framework",
             "progres" : "80%",
-            "src" : "tailwindcss.png"
+            "src" : "https://liynx45.github.io/my-db/porto/icons/tailwindcss.png"
         }
     ]
