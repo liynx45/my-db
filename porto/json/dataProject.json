@@ -3,6 +3,7 @@
             "id"         : 1,
             "name"       : "To Do List",
             "link"       : "https://to-do-list-react-sable.vercel.app/",
+            "git"        : "https://github.com/liynx45/store.js.github.io", 
             "src"        : "to-do-list.png",
             "description": "this app web built with react js and tailwindcss. Use localstorage for database",
             "tools"      : [
@@ -21,6 +22,7 @@
             "id"         : 2,
             "name"       : "Gallery",
             "link"       : "https://liynx45.github.io/gllr-js/",
+            "git"        : "https://github.com/liynx45/gllr-js", 
             "src"        : "gallery-js.png",
             "description": "this Project still use data on client server, not local storage. I use transition efek for smooth slide",
             "tools"      : [
@@ -43,6 +45,7 @@
             "id"         : 3,
             "name"       : "Store",
             "link"       : "https://liynx45.github.io/store.js.github.io/",
+            "git"        : "https://github.com/liynx45/store.js.github.io", 
             "src"        : "store.png",
             "description": "this app web built with javascript. I use css 'display: block and none for render page. database still use client server not localstorage",
             "tools"      : [
