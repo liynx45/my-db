@@ -21,7 +21,7 @@
         {
             "id"         : 2,
             "name"       : "Zero Food",
-            "link"       : "https://zerofood-40hxhx29q-liynnxs-projects.vercel.app/",
+            "link"       : "https://zerofood.vercel.app/",
             "git"        : "https://github.com/liynx45/resto-react", 
             "src"        : "zerofood.png",
             "description": "a website landing page zero food",
