@@ -67,7 +67,7 @@
         {
             "id"         : 4,
             "name"       : "Portofolio V1",
-            "link"       : "https://vercel.com/liynnxs-projects/porto-v1/Cy6LWaqH5F1QtUA4WnJypka9dTLt",
+            "link"       : "https://porto-v1-83sw6plm0-liynnxs-projects.vercel.app/",
             "git"        : "https://github.com/liynx45/tpl-porto-tailwind", 
             "src"        : "portoV1.png",
             "description": "a portfolio website built using vanilla HTML with the tailwindcss framework",
