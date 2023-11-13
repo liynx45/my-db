@@ -3,7 +3,7 @@
             "id"         : 1,
             "name"       : "To Do List",
             "link"       : "https://to-do-list-react-sable.vercel.app/",
-            "git"        : "https://github.com/liynx45/store.js.github.io", 
+            "git"        : "https://github.com/liynx45/to-do-list_react", 
             "src"        : "to-do-list.png",
             "description": "this app web built with react js and tailwindcss. Use localstorage for database",
             "tools"      : [
