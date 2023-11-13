@@ -20,11 +20,11 @@
         },
         {
             "id"         : 2,
-            "name"       : "Gallery",
-            "link"       : "https://liynx45.github.io/gllr-js/",
-            "git"        : "https://github.com/liynx45/gllr-js", 
-            "src"        : "gallery-js.png",
-            "description": "this Project still use data on client server, not local storage. I use transition efek for smooth slide",
+            "name"       : "Zero Food",
+            "link"       : "https://zerofood-40hxhx29q-liynnxs-projects.vercel.app/",
+            "git"        : "https://github.com/liynx45/resto-react", 
+            "src"        : "zerofood.png",
+            "description": "a website landing page zero food",
             "tools"      : [
                 {
                     "id" : 1,
@@ -32,11 +32,11 @@
                 },
                 {
                     "id" : 2,
-                    "src" : "css.png"
+                    "src" : "reactJs.png"
                 },
                 {
                     "id" : 3,
-                    "src" : "javaScript.png"
+                    "src" : "tailwindcss.png"
                 }
             ]
             
@@ -131,7 +131,30 @@
                     "src" : "css.png"
                 }
             ]
+        },
+        {
+            "id"         : 7,
+            "name"       : "Gallery",
+            "link"       : "https://liynx45.github.io/gllr-js/",
+            "git"        : "https://github.com/liynx45/gllr-js", 
+            "src"        : "gallery-js.png",
+            "description": "this Project still use data on client server, not local storage. I use transition efek for smooth slide",
+            "tools"      : [
+                {
+                    "id" : 1,
+                    "src" : "html.png"
+                },
+                {
+                    "id" : 2,
+                    "src" : "css.png"
+                },
+                {
+                    "id" : 3,
+                    "src" : "javaScript.png"
+                }
+            ]
             
         }
+        
     ]
 
